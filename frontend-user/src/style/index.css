@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  /* Palet Warna BMJ */
+  --color-industrial-red: #c41e2c;
+  --color-navy-blue: #0e2b4b;
+  --color-bmj-dark: #1e2a36;
+  --color-bmj-muted: #4a5a6a;
+  --color-bmj-light: #f4f7fa;
+  --color-bmj-border: #dce3ec;
+
+  /* Font */
+  --font-sans: 'Inter', sans-serif;
+  --font-heading: 'Montserrat', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
